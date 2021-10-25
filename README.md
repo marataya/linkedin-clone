@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+LinkedIn Clone was made on instruction by [Sonny Sangha](https://www.youtube.com/c/SonnySangha), using the [React](https://reactjs.org/) [Redux](https://redux.js.org/), [Material-UI](https://mui.com/) and [react-flip-move](https://github.com/joshwcomeau/react-flip-move).
 
 ## Available Scripts
 
